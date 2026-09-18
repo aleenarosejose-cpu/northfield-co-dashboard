@@ -137,22 +137,6 @@ cd northfield-co-dashboard
 pip install -r requirements.txt
 ```
 
-### 4. Run the Streamlit application
-
-```bash
-streamlit run northfield_dashboard.py
-```
-
-The dashboard will open in your web browser.
-
----
-
-## 🌐 Live Dashboard
-
-**Live Dashboard:** Add your Streamlit deployment link here after deployment.
-
----
-
 ## 💡 Key Outcomes
 
 The dashboard is designed to transform raw business data into understandable visual insights that can help identify:
@@ -174,4 +158,4 @@ The findings and recommendations presented in the dashboard are based on the ana
 
 **Area:** Statistics | Data Analytics | Marketing Analytics
 
-**Tools:** Python | Pandas | NumPy | Matplotlib | Plotly | Streamlit
+**Tools:** Python | Pandas | NumPy | Matplotlib | Plotly 
